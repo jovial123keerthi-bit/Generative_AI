@@ -1,0 +1,4 @@
+pathlib
+langchain_ollama
+langchain-core
+langchain_text_splitters
